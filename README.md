@@ -95,11 +95,11 @@ tugas-p9/
 
 | Welcome page bawaan Laravel (`php artisan serve`) | Halaman `/` |
 |---|---|
-| ![welcome](screenshots/welcome.png) | ![home](screenshots/home.png) |
+| ![welcome](screenshot/welcome.png) | ![home](screenshot/home.png) |
 
 | `/about` | `/contact` | `/hello/budi` |
 |---|---|---|
-| ![about](screenshots/about.png) | ![contact](screenshots/contact.png) | ![hello](screenshots/hello.png) |
+| ![about](screenshot/about.png) | ![contact](screenshot/contact.png) | ![hello](screenshot/hello.png) |
 
 ## 6. Bonus yang Dikerjakan
 
